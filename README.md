@@ -1,2 +1,2 @@
 # GANNT
-Genetic Algorithm + Neural Network Training of OpenAI's "cartpole" environment
+Genetic Algorithm based Neural Network Training for OpenAI's "cartpole" environment
